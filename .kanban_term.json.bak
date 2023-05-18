@@ -1,1 +1,1 @@
-{"lists":[{"name":"To do","notes":[]},{"name":"Doing","notes":[]},{"name":"Done!","notes":[]}]}
+{"lists":[{"name":"To do","notes":[{"text":"Apply offset to sub.\n"},{"text":"Accept multiple files\n"},{"text":"Accept multiple offsets\n"},{"text":"Prompt user to either overwrite or save with added extension\n"}]},{"name":"Doing","notes":[{"text":"Accept and save 1 sub file. (Implement astisub)\n"}]},{"name":"Done!","notes":[]}]}
