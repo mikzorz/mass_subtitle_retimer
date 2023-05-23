@@ -1,1 +1,4 @@
-testfiles
+testfiles/*
+!testfiles/test*
+old_subs
+retimed_subs
